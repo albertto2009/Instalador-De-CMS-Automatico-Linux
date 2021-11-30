@@ -1,5 +1,5 @@
 #!/bin/bash
-#@Authors: Alberto Perez Hidalgo y Aurora Palma Perdigones
+#@Authors: Alberto Perez Hidalgo 
 #@Comments: Script para crear servidor web y/o correo
 #Menu: 
 #1- Crear servidor web
